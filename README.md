@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello, I'm Shubham Fule!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello, I'm Akansha Shrivastava!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=80&lines=Software+Developer;C+%7C+C%2B%2B+Programmer;Java+%26+Python+Learner;Future+Full+Stack+Developer" />
@@ -55,7 +55,7 @@
 
 <div align="center">
   <h3>⭐ Don't forget to star my repositories if you find them useful!</h3>
-  <p>Made by shubham fule</p>
+  <p>Made by Akanksha Shrivastava</p>
 </div>
 
 
