@@ -39,7 +39,7 @@
   <a href="mailto:fuleshubham89@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/shubham-fule-12947b3a8">
+  <a href="www.linkedin.com/in/akansha-shrivastava-828925396">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
